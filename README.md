@@ -53,6 +53,6 @@ The app interfaces with a backend that manages the following core entities:
 
 ```bash
 git clone https://github.com/ashkshenoy/lfc-tours-frontend.git
-cd lfc-tours-frontend
+cd lfctours-frontend
 npm install
 npm start
