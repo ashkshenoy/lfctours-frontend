@@ -27,7 +27,6 @@ The app interfaces with a backend that manages the following core entities:
 
 - **React** (Created using [Create React App](https://create-react-app.dev))
 - **React Router**
-- **Axios**
 - **H2 (via backend)** for demo in-memory persistence
 - **OAuth2** for authentication
 
@@ -38,8 +37,7 @@ The app interfaces with a backend that manages the following core entities:
 | Component      | Description                        |
 |----------------|------------------------------------|
 | `GroupList`    | Displays all existing fan groups   |
-| `GroupEdit`    | Create or edit a group             |
-| `EventList`    | Shows upcoming events              |
+| `GroupEdit`    | Create or edit a group             |         |
 | `Navbar`       | Handles basic navigation/auth info |
 
 ---
